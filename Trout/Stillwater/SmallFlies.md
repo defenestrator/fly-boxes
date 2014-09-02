@@ -1,4 +1,5 @@
 # Nymphs and Small Flies
+
 ## Chironomids
 ### Sizes #10-18
 #### Colors (body/rib): Black/Red, Red/Silver, Black/Silver, Chrome/Red, Green/Silver, Brown/Orange
@@ -23,6 +24,7 @@
 - RS2
 - Hare's Ear Nymph
 - Nicklas' Improved Callibaetis
+
 ## Damselflies
 ### Sizes #10-12
 #### Colors: Olive, Pale Olive, Green
