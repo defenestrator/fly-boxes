@@ -1,6 +1,6 @@
 # Streamers
 ## Baitfish
-### Sizes: #8-10
+### Sizes: #0/2-6
 #### Colors:
 - DG's IceDub Clouser Minnow
 - Zonker
