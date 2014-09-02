@@ -27,7 +27,7 @@
 ### Sizes #10-12
 #### Colors: Olive, Pale Olive, Green
 - Marabou Damsel
-- micro-leech, olive.
+- Simi-Seal Micro-Leech.
 
 ## Dragonflies
 ### Sizes #4-8
