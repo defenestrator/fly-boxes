@@ -2,13 +2,14 @@
 ## Baitfish
 ### Sizes: #8-10
 #### Colors:
-- DG's IceDub Clouser
-- Zonkers
-- Matukas
+- DG's IceDub Clouser Minnow
+- Zonker
+- Rabbit Matukas
+- Craven's Lead-eyed Gonga
 
 ## Leeches
 ### Sizes: #8-12
-#### Colors:
-- JJ's Simiseal Leech
+#### Colors: Black, Olive, Burgundy, Brown, Canadian Olive, Burnt Orange, Golden Olive
+- JJ's Simi-Seal (or Angora + IceDub) Leech
 - Troy's Vampire Leech
 - Rickard's Seal Bugger
