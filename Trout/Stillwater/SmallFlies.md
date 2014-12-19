@@ -17,7 +17,7 @@
 - JJ's Weighted Scud
 
 ## Callibaetis
-### Sizes #12-14
+### Sizes #10-14
 #### Colors: Callibaetis Gray
 - Rickard's AP Emerger
 - GG Biot Callibaetis
@@ -29,7 +29,7 @@
 ### Sizes #10-12
 #### Colors: Olive, Pale Olive, Green
 - Marabou Damsel
-- Simi-Seal Micro-Leech.
+- Simi-Seal Micro-Leech (#10-14)
 
 ## Dragonflies
 ### Sizes #4-8
@@ -40,59 +40,3 @@
 
 ## Corixia
 -*maybe?*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
