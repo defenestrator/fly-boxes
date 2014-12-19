@@ -9,6 +9,6 @@ A box (or 7) for every occasion.
 - Saltwater
 - Steelhead
 - Trout
-- - Freestones
-- - Stillwater
-- - Western Tailwaters
+  - Freestones
+  - Stillwater
+  - Western Tailwaters
