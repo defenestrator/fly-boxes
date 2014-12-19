@@ -10,7 +10,7 @@
 - Juju Baetis
 - RS2 Variants
 
-## Midge-Type
+## Midge-type
 - Egan's Rainbow Warrior
 - Bishop's Dynamite
 - Jujubee Midge
